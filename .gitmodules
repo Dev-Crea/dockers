@@ -1,3 +1,6 @@
 [submodule "genghisapp"]
 	path = genghisapp
 	url = git@github.com:Dev-Crea/genghisapp.git
+[submodule "taskboard"]
+	path = taskboard
+	url = git@github.com:Dev-Crea/taskboard.git
