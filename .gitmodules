@@ -1,0 +1,3 @@
+[submodule "genghisapp"]
+	path = genghisapp
+	url = git@github.com:Dev-Crea/genghisapp.git
