@@ -4,3 +4,6 @@
 [submodule "taskboard"]
 	path = taskboard
 	url = git@github.com:Dev-Crea/taskboard.git
+[submodule "rails"]
+	path = rails
+	url = git@github.com:Dev-Crea/rails.git
