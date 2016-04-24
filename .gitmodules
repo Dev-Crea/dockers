@@ -7,3 +7,6 @@
 [submodule "rails"]
 	path = rails
 	url = git@github.com:Dev-Crea/rails.git
+[submodule "docker-bundle"]
+	path = docker-bundle
+	url = git@github.com:Dev-Crea/docker-bundle.git
